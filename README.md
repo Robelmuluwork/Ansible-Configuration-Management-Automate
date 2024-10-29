@@ -10,6 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/f7b22390-4c02-47ce-982a-a3e79ea11c71)
 
+
 3. Install Ansible.
 
 ```
