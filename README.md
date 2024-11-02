@@ -274,7 +274,8 @@ Use sudo
 ```
 sudo ansible-playbook -i inventory/dev.yml playbooks/common.yml
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0bf06217-c907-48b4-a957-0e641689c788)
+
 
 Verify that wire shark is running in each of the servers by running
 
