@@ -328,7 +328,6 @@ Furthermore, the project emphasized the significance of documentation and best p
 Overall, the Ansible Configuration Management Automation Project provided valuable hands-on experience in leveraging Ansible for automating various tasks across multiple servers. The skills and knowledge gained from this project will be invaluable in streamlining infrastructure management, reducing manual efforts, and ensuring consistent and reliable deployments in real-world scenarios.
 
 
-testing copy artifact
 
 
 
