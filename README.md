@@ -326,3 +326,34 @@ The project also highlighted the importance of version control and collaboration
 Furthermore, the project emphasized the significance of documentation and best practices. We learned how to write clear and concise playbooks, leverage Ansible's built-in modules, and follow industry-standard conventions for better maintainability and scalability.
 
 Overall, the Ansible Configuration Management Automation Project provided valuable hands-on experience in leveraging Ansible for automating various tasks across multiple servers. The skills and knowledge gained from this project will be invaluable in streamlining infrastructure management, reducing manual efforts, and ensuring consistent and reliable deployments in real-world scenarios.
+
+
+
+thios osa nlkasn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
